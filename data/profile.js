@@ -13,7 +13,7 @@ module.exports = {
   },
 
   stats: [
-    { value: '1+', label: 'Year in industry', note: 'Intern → full-time at wAI Industries' },
+    { value: '1+', label: 'Year in industry', note: 'ML Engineer → full-time at wAI Industries' },
     { value: '3', label: 'Languages in one RAG', note: 'English, Urdu & Roman Urdu in OTTO' },
     { value: '5', label: 'Certifications', note: 'Anthropic, Microsoft, Google Cloud, Udemy' },
   ],
