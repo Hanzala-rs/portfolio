@@ -1,0 +1,19 @@
+{
+  "name": "hanzala-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Hanzala Rashid — AI/ML Engineer",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
